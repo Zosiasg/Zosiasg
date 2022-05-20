@@ -2,7 +2,7 @@
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Education]
+* [Education](#Education)
 * [Skills]
 * [Interests]
 * [Experience]
