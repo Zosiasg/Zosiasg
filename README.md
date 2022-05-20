@@ -5,7 +5,6 @@
 * [Education](#Education)
 * [Skills](#Skills)
 * [Interests](#Interests)
-* [Experience](#Experience)
 * [Contact](#contact)
 
 
@@ -26,9 +25,6 @@ Currently I am studying first year of Computer Science and Econometrics at the U
 ## Interests
 I like travelling a lot, taking analogue photos and watching good films. 
 Recently I discovered programming and I would like to develop myself further in this field.
-
-## Experience
-
 
 ## Contact
 Zosiasg@gmail.com - feel free to contact me!
