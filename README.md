@@ -17,11 +17,11 @@ I finished secondary school - XXIV high school in Gdańsk.
 Currently I am studying first year of Computer Science and Econometrics at the University of Gdansk.
 
 ## Skills:
--_Very good knowledge of English at C1 level_
--_Knowledge of MS Office (Word, Excel, Power Point, Access)_
--Excellent knowledge of social media
--Problem solving skills and willingness to expand knowledge
--Interpersonal communication skills
+- Very good knowledge of English at C1 level
+- Knowledge of MS Office (Word, Excel, Power Point, Access)
+- Excellent knowledge of social media
+- Problem solving skills and willingness to expand knowledge
+- Interpersonal communication skills
 
 ## Interests
 I like travelling a lot, taking analogue photos and watching good films. 
