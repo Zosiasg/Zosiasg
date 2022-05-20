@@ -3,9 +3,9 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Education](#Education)
-* [Skills]
-* [Interests]
-* [Experience]
+* [Skills](#Skills)
+* [Interests](#Interests)
+* [Experience](#Experience)
 * [Contact](#contact)
 
 
