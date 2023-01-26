@@ -9,7 +9,7 @@
 
 
 ## General Information
-My name is Zofia Syrek Gerstenkorn and I am a first-year student of Computer Science and Econometrics at the University of Gdansk.
+My name is Zofia Syrek Gerstenkorn and I am a second-year student of Computer Science and Econometrics at the University of Gdansk.
 
 ## Education
 I finished secondary school - XXIV high school in Gdańsk. 
